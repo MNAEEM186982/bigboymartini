@@ -1,2 +1,4 @@
-# bigboymartini
-if True: big
+if True:
+  big
+else:
+  smol
